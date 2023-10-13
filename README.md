@@ -2,21 +2,21 @@
 An interactive web-based implementation of the classic memory game, Simon.
 
 ## Table of Contents
--Introduction <br>
--Technologies
--Gameplay
+* Introduction <br>
+* Technologies
+* Gameplay
 
 
-# Introduction
+## Introduction
 The Simon game is a test of memory. Players must remember and repeat a sequence of colors that grows longer with each round. This web implementation aims to capture the essence of the original game in a digital format.
 
-# Technologies
+## Technologies
 The game is built using:
--HTML5
--CSS3
--JavaScript
+* HTML5
+* CSS3
+* JavaScript
 
-# Gameplay
+## Gameplay
 Press the "Start" button to begin. <br>
 The game will show the first color in the sequence. Remember this color. <br>
 Click on the color shown. <br>
